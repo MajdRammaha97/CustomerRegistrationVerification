@@ -1,0 +1,13 @@
+@Base_Url = http://localhost:5224
+@Register_Url = api/Customer/register
+
+POST {{Base_Url}}/{{Register_Url}}
+Content-Type: application/json
+
+{
+    "fullName": "Majd Rammaha",
+    "email": "majd_r97@yahoo.com",
+    "phone": "0799594246",
+    "country": "Jordan"
+}
+###

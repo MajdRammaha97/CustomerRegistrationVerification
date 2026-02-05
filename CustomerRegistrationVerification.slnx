@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CustomerRegistrationVerification.Api/CustomerRegistrationVerification.Api.csproj" Id="7a3c50eb-88b8-4a63-a170-c2aff18f3ea4" />
+  <Project Path="CustomerRegistrationVerification.Core/CustomerRegistrationVerification.Core.csproj" Id="ae61848c-3878-4076-be65-7287c8bfae0f" />
+  <Project Path="CustomerRegistrationVerification.EmailFunction/CustomerRegistrationVerification.EmailFunction.csproj" Id="28913246-30f6-44ef-9f50-82614b40d72f" />
+</Solution>
